@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Counter", "Counter\Counter.csproj", "{CC3FEDFA-3D3C-4243-8FC4-FECF035A9B82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSearcher", "StringSearcher\StringSearcher.csproj", "{56B62DBC-3E32-474E-847F-AECAAE93B235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong", "PingPong\PingPong.csproj", "{E3B03003-520A-4504-A140-72ABFF949CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC3FEDFA-3D3C-4243-8FC4-FECF035A9B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3FEDFA-3D3C-4243-8FC4-FECF035A9B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3FEDFA-3D3C-4243-8FC4-FECF035A9B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3FEDFA-3D3C-4243-8FC4-FECF035A9B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B62DBC-3E32-474E-847F-AECAAE93B235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B62DBC-3E32-474E-847F-AECAAE93B235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B62DBC-3E32-474E-847F-AECAAE93B235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B62DBC-3E32-474E-847F-AECAAE93B235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B03003-520A-4504-A140-72ABFF949CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B03003-520A-4504-A140-72ABFF949CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B03003-520A-4504-A140-72ABFF949CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B03003-520A-4504-A140-72ABFF949CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB9D18E1-332E-486A-A012-F56D2FED1413}
+	EndGlobalSection
+EndGlobal
